@@ -36,8 +36,8 @@ Bu uygulama, Expo + React Native ile geliştirilmiş modern bir ürün listeleme
 ## Ekran Görüntüleri
 <p align="center">
   <img src="assets/produts.jpg" alt="Ürünler" width="200" />
-  <img src="assets/cart.jpg" alt="Sepetim" width="200" />
   <img src="assets/favorites.jpg" alt="Favorilerim" width="200" />
+  <img src="assets/cart.jpg" alt="Sepetim" width="200" />
   <img src="assets/profile.jpg" alt="Profil" width="200" />
 </p>
 
